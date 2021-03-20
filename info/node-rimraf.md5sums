@@ -1,0 +1,7 @@
+e350b50fac7978b893cbba36a556f6b7  usr/lib/nodejs/rimraf/bin.js
+c61585345c744d3cd3015c3dfd5920b9  usr/lib/nodejs/rimraf/package.json
+2332a984e4bba59da85fda466399e17b  usr/lib/nodejs/rimraf/rimraf.js
+47e06d77c29a73c5e9b118d8e6b05c97  usr/share/doc/node-rimraf/README.md
+f6c22d3ea6c93a6767789c9f7bf2fedf  usr/share/doc/node-rimraf/changelog.Debian.gz
+bf7c4e022af5b497b949b50f51c4bf18  usr/share/doc/node-rimraf/copyright
+7d065ffc7e8aa8c37c52e80194e81104  usr/share/man/man1/rimraf.1.gz

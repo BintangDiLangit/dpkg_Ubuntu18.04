@@ -1,0 +1,10 @@
+cb6f5b184e29d490f50b199122412dbf  usr/bin/p11-kit
+f4524326b1dfcab72fc5250d85178880  usr/bin/trust
+fc8c9161769f5665ceae6210ab109628  usr/lib/x86_64-linux-gnu/p11-kit/p11-kit-remote
+9d3d589328b9a6c13cf1153c4df34da7  usr/lib/x86_64-linux-gnu/p11-kit/p11-kit-server
+7407af2ac7d0e094f9b44788efd41374  usr/share/doc/p11-kit/copyright
+6a03250a4a2a3bbf3c53bbea88ad95bf  usr/share/doc/p11-kit/examples/trust-extract-compat
+ec1d6ae1340d228904b810aec2c3b131  usr/share/man/man1/trust.1.gz
+1d252e175c0cfd991c6bb5adbccd1110  usr/share/man/man5/pkcs11.conf.5.gz
+2031a400440aa2b5036453521b347588  usr/share/man/man8/p11-kit.8.gz
+5795b9a008f937bf045e86bfabe301d5  usr/share/p11-kit/modules/p11-kit-trust.module

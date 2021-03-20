@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/hosted-git-info
+/usr/lib/nodejs/hosted-git-info/git-host-info.js
+/usr/lib/nodejs/hosted-git-info/git-host.js
+/usr/lib/nodejs/hosted-git-info/index.js
+/usr/lib/nodejs/hosted-git-info/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-hosted-git-info
+/usr/share/doc/node-hosted-git-info/README.md
+/usr/share/doc/node-hosted-git-info/changelog.Debian.gz
+/usr/share/doc/node-hosted-git-info/copyright

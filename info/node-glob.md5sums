@@ -1,0 +1,9 @@
+0041795c4700b9e1c1cd76729517f08b  usr/lib/nodejs/glob/common.js
+20c4c7d5e53fcaaf2781e53942dc2e32  usr/lib/nodejs/glob/glob.js
+c48f03d61da8b37477bf9711d56aea41  usr/lib/nodejs/glob/package.json
+c29ff74e143a933770c75a66998fbeeb  usr/lib/nodejs/glob/sync.js
+6c602374807a0294a0a6571e05952d9d  usr/share/doc/node-glob/README.md.gz
+42e668bf55e86b64b0399c3c99bccb8f  usr/share/doc/node-glob/changelog.Debian.gz
+9caa0d8fada035471f0eb556438cf5f8  usr/share/doc/node-glob/copyright
+2a09cf92e77efa8bab916d80657e7319  usr/share/doc/node-glob/examples/g.js
+e55ffd28a03d10c005f8f4c79bc9efd9  usr/share/doc/node-glob/examples/usr-local.js

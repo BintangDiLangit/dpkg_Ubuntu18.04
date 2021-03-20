@@ -1,0 +1,8 @@
+a5250fe41b87808195020eee3309921f  usr/lib/x86_64-linux-gnu/libmutter-2.so.0.0.0
+2da4dfc576f28964ea4604dfde4bc673  usr/lib/x86_64-linux-gnu/mutter/libmutter-clutter-2.so
+beb88b2497d211eb2cfc77eb8790c846  usr/lib/x86_64-linux-gnu/mutter/libmutter-cogl-2.so
+bdd5ff55b612ef67d68852c3906804cc  usr/lib/x86_64-linux-gnu/mutter/libmutter-cogl-pango-2.so
+f122e1ed6f2fd29c5c2d6e4fc875933e  usr/lib/x86_64-linux-gnu/mutter/libmutter-cogl-path-2.so
+639b45975d80a2944f8e42dd72861779  usr/share/doc/libmutter-2-0/changelog.Debian.gz
+e90913afd496a3a7c4c207b1fe8bc86e  usr/share/doc/libmutter-2-0/copyright
+10a3beee96ad60a41da28f7774619020  usr/share/lintian/overrides/libmutter-2-0

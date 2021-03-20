@@ -1,0 +1,15 @@
+e409c2198743fb3f9c3e5939358bc32e  usr/lib/nodejs/source-map/lib/array-set.js
+10ab2672fb7feaa6e4a2ca651d2412f9  usr/lib/nodejs/source-map/lib/base64-vlq.js
+d6ba9a233e14b859b51f538c0b295953  usr/lib/nodejs/source-map/lib/base64.js
+250315731532fce9f782a6dcc6a0f569  usr/lib/nodejs/source-map/lib/binary-search.js
+b43d49bb65a0e89b26e13a97de816cad  usr/lib/nodejs/source-map/lib/mapping-list.js
+dfeffc75906e8f42d235a55801ae2a42  usr/lib/nodejs/source-map/lib/quick-sort.js
+7c554dd02418736eadec52587fc657f9  usr/lib/nodejs/source-map/lib/source-map-consumer.js
+4d5a791f716a350dc5c4cdd7d1ccb0b9  usr/lib/nodejs/source-map/lib/source-map-generator.js
+5a5f0f5589bd9d1b83c9e24a15174260  usr/lib/nodejs/source-map/lib/source-node.js
+ec9ae29400d07c9b1266bc612acda893  usr/lib/nodejs/source-map/lib/util.js
+7d1d048f81843bb704a2c69b3bcf3018  usr/lib/nodejs/source-map/package.json
+1bb9c1d35d2fbb3779c67306ca3d8070  usr/lib/nodejs/source-map/source-map.js
+ac9c38e82340340c245acb3a677a8a73  usr/share/doc/node-source-map/README.md.gz
+7f9fa0239f1df204be0496ae29a5e14c  usr/share/doc/node-source-map/changelog.Debian.gz
+0f349832485bdfc7f94fc55f9d24fd0a  usr/share/doc/node-source-map/copyright

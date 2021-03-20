@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/underscore
+/usr/lib/nodejs/underscore/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-underscore
+/usr/share/doc/node-underscore/copyright
+/usr/lib/nodejs/underscore/index.js
+/usr/share/doc/node-underscore/README.md
+/usr/share/doc/node-underscore/changelog.Debian.gz
+/usr/share/doc/node-underscore/index.html

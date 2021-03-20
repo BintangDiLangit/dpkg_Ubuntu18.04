@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/spdx-expression-parse
+/usr/lib/nodejs/spdx-expression-parse/AUTHORS
+/usr/lib/nodejs/spdx-expression-parse/index.js
+/usr/lib/nodejs/spdx-expression-parse/package.json
+/usr/lib/nodejs/spdx-expression-parse/parser.js
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-spdx-expression-parse
+/usr/share/doc/node-spdx-expression-parse/README.md
+/usr/share/doc/node-spdx-expression-parse/changelog.Debian.gz
+/usr/share/doc/node-spdx-expression-parse/copyright

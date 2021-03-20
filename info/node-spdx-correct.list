@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/spdx-correct
+/usr/lib/nodejs/spdx-correct/index.js
+/usr/lib/nodejs/spdx-correct/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-spdx-correct
+/usr/share/doc/node-spdx-correct/README.md
+/usr/share/doc/node-spdx-correct/changelog.Debian.gz
+/usr/share/doc/node-spdx-correct/copyright

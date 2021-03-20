@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/firefox-addons
+/usr/lib/firefox-addons/extensions
+/usr/lib/firefox-addons/extensions/langpack-en-CA@firefox.mozilla.org.xpi
+/usr/lib/firefox-addons/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+/usr/share
+/usr/share/doc
+/usr/share/doc/firefox-locale-en
+/usr/share/doc/firefox-locale-en/changelog.Debian.gz
+/usr/share/doc/firefox-locale-en/copyright

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/spdx-license-ids
+/usr/lib/nodejs/spdx-license-ids/package.json
+/usr/lib/nodejs/spdx-license-ids/spdx-license-ids.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-spdx-license-ids
+/usr/share/doc/node-spdx-license-ids/README.md
+/usr/share/doc/node-spdx-license-ids/changelog.Debian.gz
+/usr/share/doc/node-spdx-license-ids/copyright

@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-amdefine
+/usr/share/doc/node-amdefine/README.md.gz
+/usr/share/doc/node-amdefine/changelog.Debian.gz
+/usr/share/doc/node-amdefine/copyright
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/amdefine
+/usr/lib/nodejs/amdefine/package.json
+/usr/lib/nodejs/amdefine/intercept.js
+/usr/lib/nodejs/amdefine/amdefine.js

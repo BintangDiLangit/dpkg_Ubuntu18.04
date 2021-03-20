@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/brace-expansion
+/usr/lib/nodejs/brace-expansion/index.js
+/usr/lib/nodejs/brace-expansion/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-brace-expansion
+/usr/share/doc/node-brace-expansion/README.md
+/usr/share/doc/node-brace-expansion/changelog.Debian.gz
+/usr/share/doc/node-brace-expansion/copyright
+/usr/share/doc/node-brace-expansion/examples
+/usr/share/doc/node-brace-expansion/examples/example.js

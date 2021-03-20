@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/is-builtin-module
+/usr/lib/nodejs/is-builtin-module/index.js
+/usr/lib/nodejs/is-builtin-module/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-is-builtin-module
+/usr/share/doc/node-is-builtin-module/changelog.Debian.gz
+/usr/share/doc/node-is-builtin-module/copyright
+/usr/share/doc/node-is-builtin-module/readme.md

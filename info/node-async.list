@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/async
+/usr/lib/nodejs/async/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-async
+/usr/share/doc/node-async/copyright
+/usr/lib/nodejs/async/index.js
+/usr/share/doc/node-async/README.md.gz
+/usr/share/doc/node-async/changelog.Debian.gz

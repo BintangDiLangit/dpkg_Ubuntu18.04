@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/node-uuid
+/usr/lib/nodejs/node-uuid/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-node-uuid
+/usr/share/doc/node-node-uuid/copyright
+/usr/lib/nodejs/node-uuid/index.js
+/usr/share/doc/node-node-uuid/README.md.gz
+/usr/share/doc/node-node-uuid/changelog.Debian.gz

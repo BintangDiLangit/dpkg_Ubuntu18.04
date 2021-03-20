@@ -1,0 +1,8 @@
+88dd2440b3948e0b1fb35b10dc21488f  usr/lib/nodejs/retry/index.js
+883a1306a782530186dc8fdf2ca8924b  usr/lib/nodejs/retry/lib/retry.js
+96ea94b87dc9d8f55b245582db5dc83a  usr/lib/nodejs/retry/lib/retry_operation.js
+da939d83aee1229e8fe6e7653ae8f0c4  usr/share/doc/node-retry/README.md.gz
+8db61c66fa9faad04f6c4e7aca03e917  usr/share/doc/node-retry/changelog.Debian.gz
+5f692e247c02ed83d5092eca8909fa8f  usr/share/doc/node-retry/copyright
+b42ce4523534a474d2304c912f5741f3  usr/share/doc/node-retry/examples/dns.js
+dc37471d3d352c9bc8895c759b94d8d1  usr/share/doc/node-retry/examples/stop.js

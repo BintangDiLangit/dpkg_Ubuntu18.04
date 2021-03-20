@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/minimatch
+/usr/lib/nodejs/minimatch/minimatch.js
+/usr/lib/nodejs/minimatch/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-minimatch
+/usr/share/doc/node-minimatch/README.md.gz
+/usr/share/doc/node-minimatch/changelog.Debian.gz
+/usr/share/doc/node-minimatch/copyright

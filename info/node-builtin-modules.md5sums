@@ -1,0 +1,7 @@
+04f011c9b31017ab5fde0e39fe575364  usr/lib/nodejs/builtin-modules/builtin-modules.json
+fd9d9306e79e22e86c5a198c63eceab8  usr/lib/nodejs/builtin-modules/index.js
+e13c9d2a355ff50fb2ee75c973405464  usr/lib/nodejs/builtin-modules/package.json
+ad704575c4e629f5cdb57f65de0686d6  usr/lib/nodejs/builtin-modules/static.js
+a428ca81acd0ef5d851e14862eceffdb  usr/share/doc/node-builtin-modules/changelog.Debian.gz
+86647dd3cae52f0255a2088789558e7d  usr/share/doc/node-builtin-modules/copyright
+982c991e830c4b263f77fb2c90503e07  usr/share/doc/node-builtin-modules/readme.md

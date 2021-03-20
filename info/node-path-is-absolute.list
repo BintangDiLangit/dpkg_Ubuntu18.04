@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/path-is-absolute
+/usr/lib/nodejs/path-is-absolute/index.js
+/usr/lib/nodejs/path-is-absolute/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-path-is-absolute
+/usr/share/doc/node-path-is-absolute/changelog.Debian.gz
+/usr/share/doc/node-path-is-absolute/copyright
+/usr/share/doc/node-path-is-absolute/readme.md

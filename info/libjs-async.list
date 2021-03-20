@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libjs-async
+/usr/share/doc/libjs-async/README.md.gz
+/usr/share/doc/libjs-async/changelog.Debian.gz
+/usr/share/doc/libjs-async/copyright
+/usr/share/javascript
+/usr/share/javascript/async
+/usr/share/javascript/async/async.js
+/usr/share/javascript/async/async.min.js

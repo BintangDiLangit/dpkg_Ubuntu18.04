@@ -1,0 +1,5 @@
+f63b2dd34de1163806fe7a045fdb393a  usr/lib/nodejs/is-builtin-module/index.js
+288f7729def7d62d2bdc377983cee5d9  usr/lib/nodejs/is-builtin-module/package.json
+0bec238382c93008ed3f11bbad4bf099  usr/share/doc/node-is-builtin-module/changelog.Debian.gz
+3e9119f7c6260be6a0aac2a45dbe1cd0  usr/share/doc/node-is-builtin-module/copyright
+bfba03a99873da652de79e6705436800  usr/share/doc/node-is-builtin-module/readme.md
